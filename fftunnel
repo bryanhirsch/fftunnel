@@ -34,5 +34,6 @@ fi
 
 ssh -ND $FORWARDING_PORT $@ &
 PID=$!
-firefox -P Secure
+
+/Applications/Firefox.app/Contents/MacOS/firefox-bin -P Secure
 kill $PID
