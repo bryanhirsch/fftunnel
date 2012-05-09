@@ -16,9 +16,9 @@ h3. Setup
 h4. Create a Firefox Profile
 * Start the profile manager using your CLI:
 <pre>
-# On Mac OS X
-# http://kb.mozillazine.org/Profile_Manager#Mac_OS_X
-/Applications/Firefox.app/Contents/MacOS/firefox-bin -profilemanager
+  On Mac OS X
+  http://kb.mozillazine.org/Profile_Manager#Mac_OS_X
+  /Applications/Firefox.app/Contents/MacOS/firefox-bin -profilemanager
 </pre>
 * Click Create Profile.
 * Click Next.
